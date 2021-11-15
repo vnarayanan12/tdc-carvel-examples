@@ -3,7 +3,7 @@ kind: App
 metadata:
   name: spring-petclinic
   namespace: dev
-  label: viji
+  label: catdragon
 spec:
   serviceAccountName: kapp-ns-admin
   fetch:
