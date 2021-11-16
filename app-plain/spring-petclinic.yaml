@@ -3,6 +3,8 @@ kind: Deployment
 metadata:
   namespace: dev
   name: spring-petclinic
+  labels:
+    environment: research
 spec:
   selector:
     matchLabels:
