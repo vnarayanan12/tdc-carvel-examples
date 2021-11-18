@@ -4,7 +4,7 @@ metadata:
   namespace: dev
   name: spring-petclinic
   labels:
-    environment: production
+    environment: research
 spec:
   selector:
     matchLabels:
