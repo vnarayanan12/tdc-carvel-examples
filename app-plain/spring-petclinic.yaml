@@ -4,7 +4,7 @@ metadata:
   namespace: dev
   name: spring-petclinic
   labels:
-    environment: research
+    environment: eric saunders produ
 spec:
   selector:
     matchLabels:
